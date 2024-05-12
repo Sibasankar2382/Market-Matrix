@@ -1,5 +1,5 @@
 # Market-Matrix
-![Logo](https://github.com/sureshkanna1071/Market-Matrix/blob/main/MarketMatrixLogo.png?raw=true)
+![Logo](https://github.com/sureshkanna1071/Market-Matrix/blob/main/Images/MarketMatrixLogo.png?raw=true)
 
 ## Project Description
 
@@ -40,7 +40,7 @@ This project focuses on conducting data analysis using financial data obtained f
 
 ## Dashboard
 
-![Logo](https://github.com/sureshkanna1071/Market-Matrix/blob/main/DashboardImage.png?raw=true)
+![Logo](https://github.com/sureshkanna1071/Market-Matrix/blob/main/Images/DashboardImage.png?raw=true)
 
 ## Conclusion
 
