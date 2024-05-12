@@ -1,0 +1,17 @@
+,Company,Industry,Quote,Sector,Company_ID
+0,Axis Bank,Banking,AXISBANK,Financial Services,1
+1,Britannia Industries,Household & Personal Products,BRITANNIA,Consumer Goods,2
+2,Cipla,Pharmaceuticals,CIPLA,Healthcare,3
+3,Dr. Reddy's Laboratories,Pharmaceuticals,DRREDDY,Healthcare,4
+4,HCL Technologies,Information Technology Services,HCLTECH,Technology,5
+5,HDFC Bank,Banking,HDFCBANK,Financial Services,6
+6,Hindustan Unilever,Household & Personal Products,HINDUNILVR,Consumer Goods,7
+7,ICICI Bank,Banking,ICICIBANK,Financial Services,8
+8,Infosys,Information Technology Services,INFY,Technology,9
+9,ITC,Household & Personal Products,ITC,Consumer Goods,10
+10,Kotak Mahindra Bank,Banking,KOTAKBANK,Financial Services,11
+11,Lupin,Pharmaceuticals,LUPIN,Healthcare,12
+12,Nestle India,Household & Personal Products,NESTLEIND,Consumer Goods,13
+13,Sun Pharmaceutical,Pharmaceuticals,SUNPHARMA,Healthcare,14
+14,Tata Consultancy Services,Information Technology Services,TCS,Technology,15
+15,Wipro,Information Technology Services,WIPRO,Technology,16
